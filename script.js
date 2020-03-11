@@ -67,12 +67,12 @@ $(document).ready(function() {
     
     let displayHour = 0;
     let ampm = "";
-    if (hour > 12) { 
-      displayHour = hour - 12;
-      ampm = "pm";
+    if (hour <= 11) { 
+      displayHour = hour - 0;
+      ampm = "am";
     } else {
       displayHour = hour;
-      ampm = "am";
+      ampm = "pm";
     }
     
     
