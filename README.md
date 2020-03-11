@@ -1,1 +1,1 @@
-# schedule
+I have created a schedule to increase workplace productivity, becuase it will help to manage your time. However, it is also important to take breaks which is why I have listed "take a walk" in the middle of the day. Mine stands out because it is in Military time and has flashy colors. I was motivated to do this assignment, becuase I would like to learn how to make a dynamic webpage and this was a good excersise in doing so. 
